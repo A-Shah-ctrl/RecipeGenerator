@@ -1,7 +1,6 @@
-All the credits for this dataset go to Ryan Lee. 
+All the credits for this dataset go to Ryan Lee.  
 
-The dataset is too big to be uploaded her for use with the code. To access this dataset floow the steps: 
-
+To access and use this dataset with our code follow the steps: 
 1) Visit https://eightportions.com/datasets/Recipes/
 2) Scroll down all the way. Click on the button that says "Download recipes"
 3) It will download a zip folder. When you unzip it you will see four files
