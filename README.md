@@ -8,6 +8,9 @@ The project aims to unravel the mystery behind recipe creation, helping individu
 pursuits by making the cooking process both efficient and enjoyable. We aim to develop an Encoder Decoder based 
 Recurrent Neural Network that can suggest recipes based on ingredients provided.
 
+# Authors
+Ashka Shah and Afnan Rahman
+
 # Dataset credits
 All the credits for this dataset go to Ryan Lee. https://www.linkedin.com/in/ryan-t-lee/
 
