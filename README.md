@@ -1,4 +1,4 @@
-# RecipeGenerator
+# Recipe Generator
 
 Whether it is seeking inspiration for culinary pursuits or trying to make a satisfying meal
 with some leftover ingredients in the refrigerator, deciding what to cook is a common dilemma. With
