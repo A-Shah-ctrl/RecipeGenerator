@@ -1,5 +1,12 @@
 # RecipeGenerator
 
+Whether it is seeking inspiration for culinary pursuits or trying to make a satisfying meal
+with some leftover ingredients in the refrigerator, deciding what to cook is a common dilemma. With
+technology’s growing impact on our daily life, deep learning models can serve as a practical solution
+to our recurrent confusion of what to cook.
+The project aims to unravel the mystery behind recipe creation, helping individuals in their culinary
+pursuits by making the cooking process both efficient and enjoyable. We aim to develop an Encoder Decoder based 
+Recurrent Neural Network that can suggest recipes based on ingredients provided.
 
 # Dataset credits
 All the credits for this dataset go to Ryan Lee. https://www.linkedin.com/in/ryan-t-lee/
