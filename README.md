@@ -1,6 +1,9 @@
 # RecipeGenerator
 
 
+# Dataset credits
+All the credits for this dataset go to Ryan Lee. https://www.linkedin.com/in/ryan-t-lee/
+
 # Instructions on running the code
 To run the code please follow these steps:
 
