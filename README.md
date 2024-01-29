@@ -8,6 +8,10 @@ The project aims to unravel the mystery behind recipe creation, helping individu
 pursuits by making the cooking process both efficient and enjoyable. We aim to develop an Encoder Decoder based 
 Recurrent Neural Network that can suggest recipes based on ingredients provided.
 
+The repo contains the necessary codes required for data formatting and running the model. The repo also contains the Final Report outlining the steps we took to design, validate, and test this model. The results and the future steps are also included in the report.
+
+Under advisement of the CSC413H5 course coordinator, the report was submitted for the 'More than Marks Contest.' The statement document contains a brief summary of the project's motivation, some background research, and its scope. Overall, the document provides a holistic view of the project and its purpose.
+
 # Authors
 Ashka Shah and Afnan Rahman
 
